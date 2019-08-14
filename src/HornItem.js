@@ -10,7 +10,7 @@ class HornItem extends Component{
                 <p>${items.title}</p>
             </div>
             <div class="picture-container">
-                <img id="horn-image" src="${items.url}" alt="Uniwhal" >
+                <img id="horn-image" src="${items.url}" alt="${items.title}" >
             </div>
             <div class="horns-amount">
                 <p>
