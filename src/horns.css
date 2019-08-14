@@ -1,0 +1,38 @@
+
+li {
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    margin: 5px 5px 5px 5px;
+}
+
+.picture-container{
+    height:100%;
+}
+
+#horn-image{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.title{
+    text-align: center;
+    background-color: rgba(39, 39, 39, 0.509);
+    color: white;
+    position: absolute;
+    width: 100%;
+}
+
+.horns-amount{
+    text-align: center;
+    background-color: rgba(39, 39, 39, 0.509);
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.horns-container{
+    position: relative;
+}
