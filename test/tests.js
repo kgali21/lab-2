@@ -1,2 +1,2 @@
 import './html-equal.js';
-import './render-horns.test.js';
+import './html-equal.test.js';
