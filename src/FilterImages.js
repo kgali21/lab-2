@@ -35,9 +35,6 @@ function getHornNum(images){
             horns.push(image.horns);
         }
     });
-    
-    console.log('hrons', horns);
-
     return horns;
 }
 
